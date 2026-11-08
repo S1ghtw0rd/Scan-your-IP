@@ -60,8 +60,8 @@ This tool is created for educational purposes only. Scanning networks without pe
 
 ## 📦 Установка
 1. Клонируйте репозиторий:
-   git clone https://github.com/S1ghtW0rd/Your-Repo-Name.git
-   cd Your-Repo-Name
+   git clone https://github.com/S1ghtW0rd/Scan-your-IP.git
+   cd Scan-your-IP
 
 2. Дополнительные библиотеки через pip не требуются (используются только встроенные модули Python).
 
